@@ -88,7 +88,6 @@ suma(9,7,16).
 suma(9,8,17).
 suma(9,9,18).
 
-% Comp = Componente
 base(CompBase1, CompBase2):-
     between(1, 9, CompBase1),
     between(1, 9, CompBase2),
